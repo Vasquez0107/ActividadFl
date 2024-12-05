@@ -1,0 +1,30 @@
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #000000;
+    padding-top: 80px;
+}
+.producto {
+    text-align: center;
+    margin: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.producto img {
+max-width: 100%;
+height: auto;
+border-radius: 10px;
+}
+.producto h3 {
+margin-top: 10px;
+}
+
+img {
+    width: 320px;
+    height: 340px;
+    object-fit: cover;
+    border-radius: 20px 20px 0px 0px;
+}
+
+h3 {
+    color: #ddd;
+}

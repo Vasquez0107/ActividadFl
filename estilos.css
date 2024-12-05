@@ -1,0 +1,28 @@
+        body, html {
+            background-color: rgb(0, 186, 152);
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+
+        .container-fluid {
+            width: 100%;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 500px;
+            padding: 20px;
+            border: 1px solid #f1f1f1;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background-color: rgb(115, 138, 148); /
+        }
+
+        h3, label {
+            color: #f1f1f1;
+        }
+
